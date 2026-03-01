@@ -69,3 +69,4 @@ To run the AgriOptima Proof of Concept locally:
 4.⁠ ⁠(Optional) To view with local server routing: Start a local HTTP server:
    ⁠ python3 -m http.server 8000 ⁠
    Then navigate to <https://farm-resource.vercel.app/results.html#planner> in your browser.
+5. Drive Link with Demo Video and PPT - <https://drive.google.com/drive/folders/1r3fX930dVAwdNZY7Rj4eUZmmys7PCmBX>
